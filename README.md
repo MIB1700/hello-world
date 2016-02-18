@@ -3,9 +3,9 @@ I'm learning how to use git-hub.
 
 ##readme
 A list of things to learn:
+
 1. *commit*
 2. **branch**
 3. ***push***
-4. _pull_
 5. merge
 6. delete
